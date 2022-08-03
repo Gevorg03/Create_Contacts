@@ -1,0 +1,7 @@
+This Program enables to create a contact including name, surname, phone number, address and
+this data are kept in database.
+I have written the program with Python using PyQt5 library.
+I have used labels, lineedits and pushbottons to crate the first page.
+To show the data I have used QTable.
+The program is consist of 2 pages, the first one is responsible for to create contact and
+the second one to show it.
